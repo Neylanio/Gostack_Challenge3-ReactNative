@@ -120,7 +120,7 @@ Para esse desafio, temos os seguintes testes:
 </figure><br/><br/>
 
 <figure>
-    <img src="./prints/pic2.png"  style="margin: 0 auto" width="100%" alt="pic2" title="Imagem Food Details">
+    <img src="./prints/pic2.png"  style="margin: 0 auto" width="40%" height="100" alt="pic2" title="Imagem Food Details">
 </figure><br/><br/>
 
 ## :memo: Licença
