@@ -119,7 +119,7 @@ Para esse desafio, temos os seguintes testes:
     <img src="./prints/pic1.png"  style="margin: 0 auto" width="100%" alt="pic1" title="Dashboard">
 </figure><br/><br/>
 
-<figure>
+<figure style="margin: 0 auto">
     <img src="./prints/pic2.png"  style="margin: 0 auto" width="40%" height="100%" alt="pic2" title="Imagem Food Details">
 </figure><br/><br/>
 
