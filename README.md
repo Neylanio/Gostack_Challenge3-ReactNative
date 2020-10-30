@@ -114,6 +114,15 @@ Para esse desafio, temos os seguintes testes:
 
 - **`should be able to decrement an extra item quantity`**: Para que esse teste passe, você deve permitir que seja decrementado em 1 a quantidade de um ingrediente extra na página `FoodDetails` baseado no seu id.
 
+### Images
+<figure>
+    <img src="./prints/pic1.png"  style="margin: 0 auto" width="100%" alt="pic1" title="Dashboard">
+</figure><br/><br/>
+
+<figure>
+    <img src="./prints/pic2.png"  style="margin: 0 auto" width="100%" alt="pic2" title="Imagem Food Details">
+</figure><br/><br/>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
